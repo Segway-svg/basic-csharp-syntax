@@ -1,0 +1,8 @@
+C:\Users\tukat\Education\Course1\Lection1\l1t1\bin\Debug\l1t1.exe.config
+C:\Users\tukat\Education\Course1\Lection1\l1t1\bin\Debug\l1t1.exe
+C:\Users\tukat\Education\Course1\Lection1\l1t1\bin\Debug\l1t1.pdb
+C:\Users\tukat\Education\Course1\Lection1\l1t1\obj\Debug\l1t1.csproj.AssemblyReference.cache
+C:\Users\tukat\Education\Course1\Lection1\l1t1\obj\Debug\l1t1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tukat\Education\Course1\Lection1\l1t1\obj\Debug\l1t1.csproj.CoreCompileInputs.cache
+C:\Users\tukat\Education\Course1\Lection1\l1t1\obj\Debug\l1t1.exe
+C:\Users\tukat\Education\Course1\Lection1\l1t1\obj\Debug\l1t1.pdb
